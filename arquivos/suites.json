@@ -1,0 +1,12 @@
+[
+    {"Id":1,"TipoSuite":"comum","Capacidade":2,"ValorDiaria":15.0,"Ocupada":false},
+    {"Id":2,"TipoSuite":"comum","Capacidade":2,"ValorDiaria":15.0,"Ocupada":false},
+    {"Id":3,"TipoSuite":"comum","Capacidade":3,"ValorDiaria":20.0,"Ocupada":false},
+    {"Id":4,"TipoSuite":"comum","Capacidade":3,"ValorDiaria":20.0,"Ocupada":false},
+    {"Id":5,"TipoSuite":"comum","Capacidade":4,"ValorDiaria":25.0,"Ocupada":false},
+    {"Id":6,"TipoSuite":"comum","Capacidade":4,"ValorDiaria":25.0,"Ocupada":false},
+    {"Id":7,"TipoSuite":"comum","Capacidade":5,"ValorDiaria":30.0,"Ocupada":false},
+    {"Id":8,"TipoSuite":"Premium","Capacidade":2,"ValorDiaria":30.0,"Ocupada":false},
+    {"Id":9,"TipoSuite":"Premium","Capacidade":4,"ValorDiaria":40.0,"Ocupada":false},
+    {"Id":10,"TipoSuite":"Premium","Capacidade":5,"ValorDiaria":45.0,"Ocupada":false}
+]
